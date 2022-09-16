@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>CS-I Journal J1002</title>
+  </head>
+
+  <body>
+    <h1>CS-I Journal J1002: Shell</h1>
+    <p>Name: Sreesha Srinivasan</p>
+    <p>Date: 28-Aug-2022</p>
+
+    <p>I received assistance from: Mrs.Jang</p>
+    <p>I assisted: No one.</p>
+
+    <h2>Section 1</h2>
+    <h3>Question 1: Name at least two other services that you personally use which are implented using a Client/Server model</h3>
+   <p> Spotify, Google .</p>
+
+    <h2>Section 2</h2>
+    <h3>Question 1: It appears that both Jack Williams and John Williams can have a directory of the same name. Do you think the ability to have two different users create a directory of the same name is important? Why?</h3>
+    <p>I think it is important because they need to be able to name their directories accurately.</p>
+    <h2>Section 3</h2>
+    <h3> Question 1: Why do you think the home directory has a special symbol to represent it?</h3>
+    <p>It is to differenciate it better</p>
+    <h2>Section 4</h2>
+    <h3>Question 1: Did the prompt change? If so, how? Why is this useful?</h3>
+    <p>We are now in a directory called Merlin</p>
+    <h2>Section 5</h2>
+    <h3>Question 1: What happens each time you press "up arrow"?</h3>
+    <h3>Question 2: What happens each time you press the "down arrow"</h3>
+    <p>It brings back the previous command or the most recent one.</p>
+    <h2>Section 6</h2>
+    <h3>Was "Hello, World!" printed to the screen as before? If not, why not? What do you think happened to the text?</h3>
+    <p> No, it was redirected to another file </p>
+    <h2>Section 7</h2>
+    <h3>How does the ls command differ from the tree command?</h3>
+    <h3>How do you choose to use one over the other></h3>
+    <p>With the tree, you can see hierarchy, and you can see the branches of where you went from.</p>
+    <h2>Section 8</h2>
+    <h3>What do you think the argument to sleep specifies?</h3>
+    <h3>Are you able to prove your hypothesis? How?</h3>
+    <p>The sleep command just waits before returning. You can prove this by executing the command.</p>
+    <h2>Section 9</h2>
+    <h3>How is the behavior different from what you expected?</h3>
+    <h3>What do you think it means to run a job in the background?</h3>
+    <h3>What do you think the number displayed in brackets specifies?</h3>
+    <p>It takes the command and runs it in the background. It runs the command while letting you do other tasks. </p>
+    <h2>Section 10</h2>
+    <h3>What do you observe as you execute the jobs command?</h3>
+    <h3>How do you explain your observations?</h3>
+    <p>When I execute the Jobs command, all the jobs I'm partaking in show up. These are all the jobs that I am currently running. </p>
+    <h2>What did I learn? What is the "big idea"?</h2>
+    <p>I learned all about the different topics in Shell. I also learnt some of the basic commands..</p>
+
+    <h2>What challenges did I encounter?</h2>
+    <p>I encountered challlenges when...I tried to execute some of the commands, as I did not understand well enough</p>
+
+    <h2>How could this experience be improved?</h2>
+    <p>This experience could be improved by...slowing down and learning the steps slowly</p>
+
+    <h2>Free Reflection: How has what I've learned affected my thinking?</h2>
+    <p>I now have learnt the basics of the shell.</p>
+
+  </body>
+  </html>
